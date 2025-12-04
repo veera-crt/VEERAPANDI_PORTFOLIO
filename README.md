@@ -14,5 +14,5 @@ Featuring a custom AI chat widget "Veeru!".
 - Chat with Veeru! (AI Avatar)
 
 ## Live Demo
-https://veera-crt.github.io/DAA-Portfolio/
+veerapandi.org.in
 
