@@ -1,0 +1,40 @@
+Name: Veerapandi G
+Role: Cybersecurity Specialist, Full Stack Developer, GRC Enthusiast
+Education:
+- B.Tech in Computer Science (Cybersecurity) at SRM University (2023-2027). Current CGPA: 8.64/10.
+- Higher Secondary at R V Matriculation Higher Secondary School (2011-2023). Percentage: 77.3%.
+
+About:
+I am a Security-Driven Full Stack Developer and Governance, Risk, and Compliance (GRC) enthusiast. I focus on building secure, scalable digital products by combining development with risk management. I am deeply invested in frameworks like ISO 27001 and real-world risk management.
+
+Skills:
+- Core: HTML, CSS, JavaScript, Python, Java, Node.js
+- Database: MySQL, PostgreSQL
+- Tools: Git, GitHub, VS Code, Vercel, Linux, Docker
+- Security: Cryptography, Authentication & OTP, GRC, Network Security, Ethical Hacking
+- AI/ML: ChatGPT, DeepSeek, Antigravity
+
+Experience:
+- IEI Club Lead - Media (Jan 2025 - Present): Managing content and event coverage.
+- Technical Club Member - NWC Association (Jan 2025 - Present): Organizing technical events.
+- Full Stack Developer (Freelance, 2025 - Present): Building secure web apps with Python (Flask) and PostgreSQL.
+- Web Designer (Freelance, 2024 - Present): Designing responsive, secure websites.
+- Content Creator (YouTuber, 2020 - Present).
+
+Projects:
+1. Online Voting Platform: Secure web app for digital elections using HTML, CSS, JS, Firebase, Python, PostgreSQL.
+2. Password Manager: Cybersecurity-focused platform with encryption and dark UI.
+3. Tic-Tac-Toe Game: Interactive game with Firebase backend.
+4. Alarm App: Simulates system calls for alarm scheduling using JavaScript.
+5. Medical Bot: AI chatbot using NLP for symptom interpretation (Python).
+6. Clara Olive Home Site: Charity website for Community Connect.
+
+Certifications:
+- Palo Alto Internship (Cybersecurity Defense)
+- TATA Internship (IAM Concepts)
+- NPTEL: Java Programming, Information Security, Ethical Hacking
+- Udemy: Frontend Web Developer
+
+Contact:
+- Open for collaborations and feedback.
+- Use the contact form on the website to reach out.
