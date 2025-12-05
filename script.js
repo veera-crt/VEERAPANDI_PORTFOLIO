@@ -369,7 +369,7 @@ const chatSend = document.getElementById("chatSend")
 const chatMessages = document.getElementById("chatMessages")
 
 // API Configuration
-const GEMINI_API_KEY = "AIzaSyCaYbH3dq8PgIY7PK1COiAGMEu_raA6nxI";
+const GEMINI_API_KEY = CONFIG.GEMINI_API_KEY;
 let portfolioContext = "";
 let staticContext = "";
 
